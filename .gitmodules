@@ -1,0 +1,3 @@
+[submodule "autoCluster"]
+	path = autoCluster
+	url = https://github.com/unjerry/autoCluster.git
