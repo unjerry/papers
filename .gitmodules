@@ -1,3 +1,6 @@
 [submodule "autoCluster"]
 	path = autoCluster
 	url = https://github.com/unjerry/autoCluster.git
+[submodule "metaEssay"]
+	path = metaEssay
+	url = https://github.com/unjerry/metaEssay.git
