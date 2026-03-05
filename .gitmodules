@@ -4,3 +4,5 @@
 [submodule "metaEssay"]
 	path = metaEssay
 	url = https://github.com/unjerry/metaEssay.git
+	branch = profile
+	ignore = all
